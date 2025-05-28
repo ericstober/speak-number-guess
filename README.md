@@ -31,7 +31,3 @@ cd speak-number-guess
 - **JavaScript**: Core logic and interactivity.
 - **HTML & CSS**: UI and styling.
 - **Web Speech API**: Enables voice recognition.
-
-## License
-
-This project is licensed under the MIT License.
